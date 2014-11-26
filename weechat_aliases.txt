@@ -1,0 +1,145 @@
+/alias ggDesenhosanimadosantigos /say pica-pau;/say os flinstones;/say caverna do dragao;/say os jetsons;/say tom e jerry
+/alias ggEx-presidentesdaRússia /say yeltsin;/say tchernenko;/say gorbatchov;/say stalin;/say andropov
+/alias ggProgramasdaGlobo /say video show;/say jornal nacional;/say casseta e planeta;/say domingao do faustao;/say jornal hoje;/say entre tapas e beijo;/say fantastico;/say sai de baixo;/say voce decide
+/alias ggAnimaismarinhos /say estrela do mar;/say bacalhau;/say camarao;/say enguia;/say ostra
+/alias ggPerfumemasculino /say drakkar;/say dune;/say armani;/say obsession
+/alias ggTransportesdeGuerra /say submarino;/say tanque;/say caca;/say helicoptero;/say porta-avioes
+/alias ggCanais-AbertoeACabo /say meningite;/say lepra;/say colera;/say tetano
+/alias ggTimesItalianosdefutebol /say sampdoria;/say parma;/say milan;/say torino;/say inter;/say internacionale
+/alias ggLoiras /say luana piovanni;/say hebe;/say angelica;/say madonna;/say carla perez;/say daniela wintz;/say sharon stone;/say xuxa
+/alias ggBandasdeRockNacionais /say planet hemp;/say paralamas do sucesso;/say sepultura;/say legiao urbana;/say capital inicial;/say skank
+/alias ggPartesdoPorcoquetemàvenda /say tender;/say toucinho;/say mocoto;/say costela;/say joelho;/say pernil;/say carre
+/alias ggNaPastaDeUmExecutivoTem /say celular;/say caneta;/say agenda;/say lapiseira
+/alias ggCantorasestrangeiras /say carole king;/say lisa stansfield;/say celine dion;/say mariah carey;/say montserrat caballe;/say gloria estefan;/say shania twain
+/alias ggColetivos /say enxame;/say cardume;/say manada;/say constelacao;/say cacho;/say fauna;/say molho
+/alias ggVerboscomeçadoscomC /say correr;/say construir;/say conectar;/say chorar;/say competir;/say cavalgar
+/alias ggCamerasdigital /say ricoh;/say kodak;/say fujifilm;/say agfa;/say tce
+/alias ggInsetos /say gafanhoto;/say borboleta;/say formiga;/say mosca;/say grilo;/say barata;/say pernilongo
+/alias ggMateriaisdeConstrução /say vidro;/say pedra;/say massa;/say tijolo;/say cimento;/say madeira;/say areia
+/alias ggTimesdefutebolInternacionais /say juventus;/say real madrid;/say boca junior;/say porto;/say universidade catolica do chile;/say barcelona;/say arsenal;/say fiorentina
+/alias ggTemnoleite /say agua;/say gordura;/say albumina;/say caseina;/say lactose
+/alias ggTimesdeSaoPaulo /say guarani;/say portuguesa;/say mogi mirim;/say sao paulo;/say santos;/say corinthians;/say barbarense;/say palmeiras
+/alias ggMúsicasdoRaimundos /say pequena raimunda;/say o pao da minha prima;/say me lambe;/say mulher de fases;/say i saw you saying;/say lingua presa
+/alias ggCartoesdecreditos /say visa;/say diners club international;/say mastercard;/say american express
+/alias ggPaísesBudistas /say coreia do sul;/say vietna;/say mongolia;/say camboja;/say sri lanka
+/alias ggPaísesQueSãoIlhas /say honshu;/say madagascar;/say cuba;/say sri lanka;/say malta
+/alias ggCidadesquesediaramolimipiadas /say cidade do mexico;/say toquio;/say estocolmo;/say berlim;/say paris
+/alias ggProgramasdoCartoonNetwork /say a vaca e o frango;/say godzilla;/say dragon ball z;/say o laboratorio de dexter;/say du dudu e edu;/say pink e o cerebro;/say homens de preto;/say as meninas super poderosas
+/alias ggLoirasfamosasbrasileiras /say sheila melo;/say eliana;/say angelica;/say xuxa;/say adriane galisteu
+/alias ggCapitaisDaEuropa /say copenhague;/say londres;/say viena;/say amsterda;/say roma;/say tirana;/say paris
+/alias ggPersonagensdosSimpsons /say maggie;/say meg;/say krusty;/say lisa;/say milhouse
+/alias ggEletrodomesticos /say liquidificador;/say enceradeira;/say fogao;/say freezer;/say maquina de lavar;/say batedeira;/say microondas;/say geladeira
+/alias ggCores /say rosa;/say roxo;/say cinza;/say marrom;/say bege
+/alias ggTiposdevulcao /say domo;/say composito;/say escudo;/say fissura;/say piroclastico
+/alias ggEquipesdeFormula1 /say prost;/say stewart;/say mclaren;/say ferrari;/say tyrrel
+/alias ggLinguagensdeprogramação /say java;/say visual basic;/say delphi;/say c#;/say pascal;/say c++;/say assembler;/say php
+/alias ggCervejas /say bavaria;/say itaipava;/say brahma;/say stella artois;/say nova schin;/say krill;/say primus;/say budweiser
+/alias ggChocolates /say diamante negro;/say laka;/say batom;/say bis;/say ouro branco;/say chokito;/say sonho de valsa;/say prestigio
+/alias ggDerivadosdoleite /say condensado;/say em po;/say creme de leite;/say iogurte;/say coalhada
+/alias ggGrandesPintores /say di cavalcanti;/say rambreaut;/say leonardo da vinci;/say michelangelo;/say van gogh;/say picasso
+/alias ggSitesdeBusca /say google;/say aonde;/say yahoo;/say radix;/say miner
+/alias ggJogadoresdoBrasildaCopade86 /say zico;/say edinho;/say josimar;/say julio cesar;/say carlos
+/alias ggFilmesqueganharamoOscar /say senhor dos aneis;/say platoon;/say o poderoso chefao;/say matrix;/say titanic
+/alias ggCarroscomF /say ferrari;/say fiorino;/say fusca;/say fiat;/say ford
+/alias ggAssuntosEstudadosemBiologia /say genetica;/say anatomia;/say zoologia;/say histologia;/say fisiologia;/say ecologia;/say botanica;/say citologia
+/alias ggOssosdocorpohumano /say falange;/say escapula;/say clavicula;/say tibia;/say peronio
+/alias ggMeiosdetranporteáereo /say aviao;/say balao;/say dirigivel;/say asa delta;/say planador
+/alias ggMoluscosecrustácios /say mexilhao;/say tatui;/say ourico;/say ostra
+/alias ggPeixesderio /say piava;/say acara;/say corumbata;/say surubim
+/alias ggFormasgeométricas /say cone;/say cilindro;/say esfera;/say retangulo;/say triangulo;/say trapezio;/say cubo
+/alias ggEstilosMusicais /say axe;/say rock;/say reggae;/say dance;/say bolero;/say pop;/say tango;/say pagode
+/alias ggPalavrasUsadasPelosSurfistas /say paneleiro;/say brother;/say morra;/say clean;/say merreca
+/alias ggSignosdoHoróscopo /say peixes;/say libra;/say gemeos;/say aquario;/say touro;/say sagitario;/say cancer;/say escorpiao
+/alias ggPaísesqueTemPenadeMorte /say uganda;/say albania;/say bangladesh;/say jordania;/say gana;/say estados unidos
+/alias ggBlocosdoCarnavalBaiano /say nana banana;/say eva;/say coruja;/say cocobambu;/say interasa
+/alias ggPaísesEuropeus /say espanha;/say polonia;/say portugal;/say suecia;/say suica;/say inglaterra;/say franca;/say alemanha
+/alias ggPaisesdaEuropa /say montenegro;/say portugal;/say suecia;/say austria;/say espanha
+/alias ggGuerras /say vietna;/say kosovo;/say chechenia;/say bosnia;/say afeganistao
+/alias ggMatériasescolares /say ingles;/say matematica;/say quimica;/say historia;/say portugues;/say geografia;/say fisica;/say literatura
+/alias ggFrutastipicasdonordeste /say coco;/say caju;/say jaca;/say acerola;/say acai
+/alias ggPaísesSul-Americanos /say venezuela;/say argentina;/say brasil;/say equador;/say bolivia;/say chile;/say paraguai
+/alias ggCapitaisEuropeias /say helsink;/say lisboa;/say budapeste;/say sofia;/say berlim;/say paris;/say varsovia;/say roma
+/alias ggPartesdocomputador /say impressora;/say placa mae;/say teclado;/say mouse;/say caixa de som;/say modem;/say monitor;/say scanner
+/alias ggEstrelasmaisbrilhantes /say vega;/say canopus;/say sol;/say capella
+/alias ggPersonagensdosX-Men /say gambit;/say xavier;/say magneto;/say wolverine;/say fera;/say fenix;/say colossus;/say cyclops
+/alias ggMeiosdeTransporte /say skate;/say onibus;/say lambreta;/say patins;/say foguete;/say bicicleta;/say jangada
+/alias ggPrincipaismontanhasdomundo /say makalv;/say manga parbat;/say kanchenjunga;/say monte everest;/say annapurna
+/alias ggMetais /say chumbo;/say aco;/say aluminio;/say prata;/say bronze;/say ferro
+/alias ggSalgadinhosServidosemFestas /say pao de queijo;/say empada;/say enroladinho de queijo;/say risoli;/say coxinha;/say serra dourada
+/alias ggAtrizesdefilmepornográfico /say silvia saint;/say amber michaels;/say aria giovanni;/say tera patrick;/say briana banks
+/alias ggCategoriasdoBoxe /say mosca;/say pesado;/say cruzador;/say superpena;/say palha
+/alias ggSuperHeróis /say capitao america;/say hulk;/say super homem;/say mulher maravilha;/say she-ra
+/alias ggCategoriasdeBoxe /say mosca;/say galo;/say superpesado;/say pena;/say medio ligeiro;/say pesado
+/alias ggVerboscomaletraE /say encher;/say emagrecer;/say enviar;/say enxaguar;/say errar;/say elevar;/say encarar;/say escorrer
+/alias ggNomesdeCobras /say jiboia;/say cascavel;/say coral;/say jararaca
+/alias ggMúsicasdosTitãs /say televisao;/say sonifera ilha;/say insensivel;/say marvin;/say pra dizer adeus;/say homem primata;/say 2 dentes
+/alias ggPartesdacasa /say escritorio;/say banheiro;/say quarto;/say jardim;/say sala;/say cozinha;/say sala de jantar
+/alias ggComandosdeDOS /say dir;/say del;/say format;/say cls;/say copy
+/alias ggEmpresasaéreas /say tam;/say american airlines;/say vasp;/say transbrasil;/say varig
+/alias ggMaravilhasdomundo /say farol de alexandria;/say mausoleu de halicarnasso;/say piramides do egito;/say jardins suspensos da babilonia;/say colosso de rodes
+/alias ggTipodenuvens /say alto-cumulo;/say nimbo;/say cirro;/say cumulo;/say estrato
+/alias ggEstilosdeépocadaLiteratura /say naturalismo;/say simbolismo;/say arcadismo;/say modernismo;/say romantismo;/say barroco;/say realismo;/say classicismo
+/alias ggRevistas /say veja;/say placar;/say quato rodas;/say national geographic;/say isto e
+/alias ggVasosSanguíneos /say jugular;/say cava;/say safena;/say aorta;/say carotida
+/alias ggPeríodosgeologicos /say jurassico;/say quaternario;/say siluriano;/say cretaceo;/say cambriano
+/alias ggFilmesnacionais /say o que e isso companheiro;/say guerra de canudos;/say o quatrilho;/say o cangaceiro;/say menino maluquinho;/say central do brasil;/say navalha na carne;/say dona flor e seus dois maridos
+/alias ggTeclasdoComputador /say esc;/say tab;/say page up;/say alt;/say ctrl;/say shift;/say caps lock
+/alias ggJogosdeBaralho /say mau mau;/say buraco;/say poker;/say canastra;/say pife
+/alias gginfo /say aa;/say  
+/alias ggRacadecachorros /say pastor alemao;/say poodle;/say bulldog;/say doberman;/say pit bull
+/alias ggDeusesdamitologiaromana /say juno;/say saturno;/say jupiter;/say venus;/say marte
+/alias ggSeriadosJaponeses /say flashman;/say nacional kid;/say espectro man;/say jaspion;/say power rangers;/say pokemon
+/alias ggFisicosfamosos /say einstein;/say faraday;/say isaac newton;/say thomas edson;/say galileu
+/alias ggDocumentospessoais /say cpf;/say carteira de trabalho;/say titulo de eleitor;/say reservista;/say carteira de identidade
+/alias ggDoençasdeVírus /say raiva;/say gripe;/say dengue
+/alias ggAnimaisdeFazenda /say carneiro;/say boi;/say cabra;/say porco;/say galinha;/say cavalo;/say jegue;/say vaca
+/alias ggAvesderapina /say condor;/say urubu;/say falcao;/say gaviao;/say chimango
+/alias ggCapitaisAsiaticas /say katmandu;/say pnompenh;/say teera;/say toquio;/say islamadad
+/alias ggFontes-tiposdeletra /say times new roman;/say symbol;/say courrier new;/say verdana;/say fixedsys
+/alias ggNumCarroTem /say motor;/say retrovisor;/say pneu;/say farol;/say volante;/say marcha;/say roda
+/alias ggMarcasdechocolate /say nestle;/say garoto;/say bauduco;/say aymore;/say lacta
+/alias ggCanaisdeTelevisao /say bandeirantes;/say hbo;/say cultura;/say sbt;/say globo;/say record;/say mtv
+/alias ggSuper-Heróis /say lanterna verde;/say robin;/say he-man;/say homem aranha;/say capitao america;/say super man;/say batman
+/alias ggTimesdefutebolNacionais /say sao paulo;/say juventude;/say palmeiras;/say gremio;/say corinthians
+/alias ggAnimaisdoJogodoBicho /say macaco;/say pavao;/say cobra;/say zebra;/say veado;/say porco
+/alias ggProgramasdaDiscovery /say misterios da ciencia;/say bom apetite;/say equinocio;/say asas;/say africa indomavel
+/alias ggDoençasdeBactérias /say meningite;/say tuberculose;/say colera;/say tetano;/say lepra
+/alias ggRevistasPornográficas /say playboy;/say sexy;/say ele ela;/say private
+/alias ggMeses /say julho;/say junho;/say janeiro;/say maio;/say marco;/say abril;/say fevereiro;/say agosto
+/alias ggSiglasdeEstados /say am;/say sp;/say rj;/say rs;/say es
+/alias ggMusicasdoBarãoVermelho /say bilhetinho azul;/say pense e dance;/say o poeta esta vivo;/say meus bons amigos;/say por que agente e assim
+/alias ggEx-presidentesdoBrasil /say janio quadros;/say ernesto geisel;/say getulio vargas;/say fernando collor;/say afonso pena
+/alias ggIlhasLocalizadasNoBrasil /say taparica;/say bananal;/say paqueta;/say marajo
+/alias ggCidadesdoRiodeJaneiro /say nova iguacu;/say sao cristovao;/say angra dos reis;/say volta redonda
+/alias ggGatosdaTurmadoManda-Chuva /say bacana;/say xuxu;/say espeto;/say manda-chuva
+/alias ggNomesdepessoascomA /say antunes;/say amaro;/say arthur;/say antonia;/say amanda
+/alias ggHierarquiadaigrejacatólica /say pade;/say cardeal;/say bispo;/say frei;/say papa
+/alias ggEstádiosdefutebol /say castelao;/say serra dourada;/say pacaembu;/say sao januario;/say laranjeiras;/say canide
+/alias ggCoresdeFaixasdeTaekondo /say azul;/say camuflada;/say vermelha e preta;/say branca
+/alias ggNomesdeFontes /say georgia;/say civic;/say funstuff;/say vivian;/say arial
+/alias ggPeçasdeummicroscópio /say tubo binocular;/say condensador de luz;/say platina;/say base
+/alias ggJogosdetabulero /say batalha naval;/say banco imobiliario;/say trilha;/say detetive;/say dama
+/alias ggPersonagensdaCorridaMaluca /say tio tomas;/say penelope charmosa;/say mutley;/say dicky vigarista;/say irmaos rocha
+/alias ggAnimaisMamiferos /say cachorro;/say elefante;/say tigre;/say macaco;/say golfinho
+/alias ggSitesdeProcura /say alta vista;/say yahoo;/say taqui;/say radar;/say uol;/say aonde;/say cade
+/alias ggSignos /say leao;/say cancer;/say libra;/say aries;/say gemeos
+/alias ggFilmesdeComédia /say o maskara;/say o mentiroso;/say debi e loid;/say um tira da pesada;/say top gang
+/alias ggMusicasdoLegiãoUrbana /say perfeicao;/say pais e filhos;/say faroeste caboclo;/say sera;/say ha tempos;/say eduardo e monica;/say eu sei
+/alias ggProvedores /say vircom;/say sunnet;/say sidon;/say nornet;/say matrix;/say artnet
+/alias ggmarcasderelogio /say technos;/say atlantis;/say orient;/say swiss;/say casio
+/alias ggpartesdocorpohumando /say polpa da bunda;/say pescoco;/say orelha esquerda;/say sola do pe;/say mao esquerda
+/alias ggFlores /say jasmim;/say camelia;/say girassol;/say papoula;/say margarida
+/alias ggunidadesdemedida /say jarda;/say libras;/say quilometro;/say metro;/say grama
+/alias ggTiposdequeijo /say provolone;/say cottage;/say ricota;/say mussarela;/say catupiry
+/alias ggRedessociais /say instagram;/say facebook;/say tinder;/say badoo;/say orkut
+/alias ggMarcasdeCelulares /say informe as perguntas;/say  
+/alias ggPraiasBrasileiras /say guaruja;/say ipanema;/say copacabana;/say angra dos reis;/say muriqui
+/alias ggMateriaisescolares /say apontador;/say transferidor;/say compasso;/say giz;/say fichario
+/alias ggmarcasdecelulares /say samsung;/say motorola;/say apple;/say alcatel;/say blu
+/alias ggBebidas /say suco;/say agua;/say refrigerante;/say cafe;/say leite
+/alias ggTementrodoaviao /say turbinas;/say comandante;/say banheiro;/say poltrona;/say lanche
+/alias ggPraiascariocas /say pepino;/say prainha;/say grumari;/say copacabana;/say ipanema
+/alias ggMulheresqueposaramnaplayboyem99 /say angela vieira;/say feiticeira;/say debora secco;/say cleo brandao;/say marina lima
+/alias ggAnimaisQueVivemnaEuropa /say tigre;/say lontra;/say ourico;/say urso;/say cabrito montes;/say cegonha;/say javali
+/alias ggComediantesbrasileiros /say tom cavalcante;/say dede santana;/say shaolin;/say chico anysio;/say renato aragao
+/alias ggIdiomas /say chines;/say aramaico;/say alemao;/say croata;/say russo
